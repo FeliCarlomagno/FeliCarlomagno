@@ -1,16 +1,15 @@
-### Hi there 👋
+# Carlomagno
+I'm a Junior Full-Stack Web Developer looking for exciting challenges. With solid skills in both the front-end and back-end, I am dedicated to creating engaging digital experiences. Passionate about solving problems through code, I am excited to contribute to innovative projects and grow professionally in a dynamic environment.
 
-<!--
-**FeliCarlomagno/FeliCarlomagno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact
+📫 How to reach me [contact me](feliciano.carlomagno@libero.it)
+
+🔗 My Linkedin Profile [visit](https://www.linkedin.com/in/feliciano-carlomagno-85743020b/?locale=en_US)
+
+-------------------------------
+
+
+### Skills
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,bootstrap,react,redux,discord,github,java,spring,postgres,python,mongodb,vscode,eclipse,github,linkedin,postman,git,)](https://skillicons.dev)
