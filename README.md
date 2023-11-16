@@ -12,4 +12,4 @@ I'm a Junior Full-Stack Web Developer looking for exciting challenges. With soli
 
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=typescript,html,css,sass,js,bootstrap,react,redux,discord,github,java,spring,postgres,vscode,eclipse,github,linkedin,postman,git,sql,mysql,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=typescript,html,css,sass,js,bootstrap,react,redux,discord,github,java,spring,postgres,vscode,eclipse,github,linkedin,postman,git,mysql,)](https://skillicons.dev)
